@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 66a82a971da4cf34197460f0cce0f1a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kalp: {fileID: 1616366556685429467, guid: 513101856bbc6454b8dbd8f648253008, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
